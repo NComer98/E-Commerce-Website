@@ -1,6 +1,6 @@
-# E-Commerce-Website
+# E-Commerce Website Demonstration Below:
  
-A project I designed to familiarize myself with modern web design using NodeJS, React, Express, Bootstrap, Axios, and mySQL. This website simulates an e-commerce dashboard. This readme covers the functionality of the site.
+A project I designed to familiarize myself with modern web design using NodeJS, React, Express, Bootstrap, Axios, and mySQL. This website simulates an e-commerce dashboard. This readme is a tour of the functionality of this site.
 
 # Disclaimer
 
