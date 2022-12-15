@@ -6,7 +6,7 @@ A project I designed to familiarize myself with modern web design using NodeJS, 
 
 This project is not live on the internet, and is designed for use on my local machine. The website can be made to work with your local machine if you tinker with the index.js file in the back-end, but this repository is mainly intended to serve as a demonstration of my work through browsing the .js files and this readme.
 <br /> <br />
-Also, all the pages of my web-site use white as a background color, so I apologize for any eye-damage caused by the bright images to follow for dark-mode users.
+Also, all the pages of my web-site use white as a background color, so I apologize for any eye damage caused by the bright images to follow for dark-mode users.
 
 # Log-in / Register
 
